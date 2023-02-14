@@ -1,16 +1,16 @@
-# Projekt-koncowy-KN-Kredek
+# boradgames_reviews_webapp
 
-Aplikacja webowa obsługująca serwis do opinii nt. gier planszowych
+Webapp for adding reviews and opinions about boardgames.
 
-Screeny interfejsu:
+Interface's screenshots:
 
-- Strona główna:
+- Main Page:
   ![main page](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/main_page.png)
-- Lista wątków:
+- Threads list:
   ![board games](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/board_games.png)
-- Wątek:
+- Thread:
   ![thread](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/thread.png)
-- Dodawanie komentarza:
+- Adding a comment:
   ![create comment](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/create_comment.png)
-- Potwierdzenie dodania komentarza:
+- Confirmation of adding a comment:
   ![added comment](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/added_comment.png)
