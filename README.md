@@ -5,12 +5,12 @@ Webapp for adding reviews and opinions about boardgames.
 Interface's screenshots:
 
 - Main Page:
-  ![main page](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/main_page.png)
+  ![main page](https://github.com/Mokinz/boardgames_reviews_webapp/tree/main/readme_imagesmain_page.png)
 - Threads list:
-  ![board games](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/board_games.png)
+  ![board games](https://github.com/Mokinz/boardgames_reviews_webapp/tree/main/readme_imagesboard_games.png)
 - Thread:
-  ![thread](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/thread.png)
+  ![thread](https://github.com/Mokinz/boardgames_reviews_webapp/tree/main/readme_imagesthread.png)
 - Adding a comment:
-  ![create comment](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/create_comment.png)
+  ![create comment](https://github.com/Mokinz/boardgames_reviews_webapp/tree/main/readme_imagescreate_comment.png)
 - Confirmation of adding a comment:
-  ![added comment](https://github.com/kacper651/Projekt-koncowy-KN-Kredek/blob/main/readme_images/added_comment.png)
+  ![added comment](https://github.com/Mokinz/boardgames_reviews_webapp/tree/main/readme_imagesadded_comment.png)
